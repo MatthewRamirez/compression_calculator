@@ -3,11 +3,12 @@
 Simple static nanoc site for the Compression Calculator Android app.
 
 [Compression Calculator Free](https://play.google.com/store/apps/details?id=spaghetti.android.CompressionCalculator)
+
 [Compression Calculator License](https://play.google.com/store/apps/details?id=spaghetti.android.CompressionLicense)
 
 ## Nanoc Cheat Sheet
 
-Some common nanoc commands that I sometimes forget.
+Some common nanoc commands that I sometimes(always) forget.
 
 *  To launch dev server - nanoc view
 *  To create a new page - nanoc create-item name_of_new_page
